@@ -23,3 +23,5 @@
 - Run `npm install`
 - Then start the server using `npm start`
 - Within the app, run `expo start --ios` to start the app via an IOS Emulator.
+
+Let's grow together with Shinobi !!!
